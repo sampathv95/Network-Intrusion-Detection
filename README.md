@@ -1,7 +1,7 @@
 # Network-Intrusion-Detection
 Autoencoder approach to detect attacks/intrusions in a network
 
-Data sets can be downloaded from below links
+Data sets can be downloaded from the links below
 1. training data: http://kdd.ics.uci.edu/databases/kddcup99/kddcup.data.gz
 2. test data: http://kdd.ics.uci.edu/databases/kddcup99/corrected.gz
 
