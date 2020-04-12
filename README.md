@@ -1,5 +1,6 @@
 # Network-Intrusion-Detection
 Autoencoder approach to detect attacks/intrusions in a network
+For detailed explanation of the approach, please refer to my medium article: https://medium.com/@sampathv95/network-intrusion-detection-using-autoencoders-b276b674e15a?sk=076209f356972bd3e12fe51bc617aa28
 
 Data sets can be downloaded from the links below
 1. training data: http://kdd.ics.uci.edu/databases/kddcup99/kddcup.data.gz
