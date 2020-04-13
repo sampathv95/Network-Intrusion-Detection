@@ -2,7 +2,7 @@ pandas==1.0.3
 numpy==1.18.2
 tensorflow==2.2.0-rc2
 matplotlib==3.2.1
-sklearn==0.0
+sklearn==0.22.2
 sklearn-pandas==1.8.0
 scipy==1.4.1
 seaborn==0.10.0
